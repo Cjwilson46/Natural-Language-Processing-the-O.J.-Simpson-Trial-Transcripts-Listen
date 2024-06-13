@@ -1,5 +1,4 @@
-# Week-12-473
-This is the twelfth   week of my violet python class
+
 Overview
 
 This Python script leverages the Natural Language Toolkit (NLTK) to perform a comprehensive linguistic analysis of the O.J. Simpson Trial Transcripts. The script is designed to provide insights into specific keywords, explore word frequencies, concordances, and similarities within the corpus.
